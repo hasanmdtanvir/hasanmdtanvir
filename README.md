@@ -1,4 +1,3 @@
-![Web Developer](https://avatars.githubusercontent.com/u/86851370?v=4)
 
 ### Hi there 👋, I'm Md Tanvir Hasan
 #### Web Developer
